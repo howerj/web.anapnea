@@ -134,6 +134,12 @@ understandable immediately by you, now.
 PROGRAMS YOU CAN USE 
 --------------------
 
+You can use any program you wish, any text editor you want, **you can even make
+your own**, text processing is simply that simple. However, any decent Unix
+system with your favorite editor (Vim or Emacs) will do. Switch from a normal
+word processor to LaTeX, use git to keep control of things, learn how to make
+makefiles. It pays off.
+
 
 FINAL WORDS 
 -----------

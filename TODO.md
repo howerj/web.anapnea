@@ -1,8 +1,10 @@
 TODO: Richard Howe, website
 ===========================
 
-* CSS, make things prettier.
+* Website
+	- Fix directory structure.
 
 * Blog.
+	- Checking and expanding on the entries.
 
 * Links section.
