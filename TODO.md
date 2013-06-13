@@ -6,5 +6,8 @@ TODO: Richard Howe, website
 
 * Blog.
 	- Checking and expanding on the entries.
+	- Sign Entries
+	- Convert Entries from markdown to html.
 
 * Links section.
+
