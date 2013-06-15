@@ -47,6 +47,31 @@ and anything like that so as not to offend.
 
 ## Software
 
-As I have already said, web browsers pose as one of my main concerns. 
+As I have already said, web browsers pose as one of my main concerns. I do not
+like the fact that I have to install a few gigabytes of software (which
+is now a *minimalist* system nowadays) in order to get a usable environment. I
+believe I get most of my usability probably in the first few hundred megabytes
+of that; Vim, GCC, dwm+X11, the kernel, tmux, git...what is the rest doing? Well
+I have a roughly 900MB installation of the texlive, the core is actually very
+small (in comparison the texlive package for Tinycore Linux is 20MB, it works),
+and just checking now 600MB of that is in *fonts* alone (or what is presumably
+fonts being in a directory called /usr/share/texmf-dist/fonts). People think
+that just because hard disk space is cheap there is no additional costs
+involved, there is additional costs involving the maintenance of all those
+files, there are the systems where it cannot be installed due to how big it is.
+Perhaps I want to have a portable Linux distro on my USB or an SD card? Not
+without taking up a few GBs of a small 16GB drive, a massive waste.
 
 ## Formats
+
+It is unfortunate that every single company has to make their own format in
+order to lock-in customers, two culprits that are obvious are disk ripping and
+burning software, they all have their own formats for their own disk images when
+an ISO would do, and word processing software, likewise many formats all to do
+the same thing.
+
+Video and audio is different, there may be many formats, proprietary ones, but
+they *are* getting better and it is easy to notice that fact. You can measure
+their performance numerically although there will come a time when you can not
+squeeze out any more entropy from the source and hopefully we will standardize
+on only a few formats. 
