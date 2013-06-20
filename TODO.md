@@ -9,5 +9,9 @@ TODO: Richard Howe, website
 	- Sign Entries
 	- Convert Entries from markdown to html.
 
+* Projects section
+	- Add more detail to projects.
+	- Include tar.xz of project.
+
 * Links section.
 
