@@ -1,5 +1,4 @@
-MINIMALISM
-==========
+## MINIMALISM
 
 Minimalism is to different people different things, the term started out in
 relation to a design philosophy but to certain subsections of the online
@@ -21,8 +20,7 @@ that is not a difficult position to defend.
 
 At it's core it is about reduction to what is necessary and nothing more.
 
-COMMON PROBLEMS
----------------
+### COMMON PROBLEMS
 
 Let me walk you through a few situations:
 
@@ -61,8 +59,7 @@ but it can *help*. Minimalism certainly is not an overarching philosophy or a
 way of life, it is an *aid*.
 
 
-THE POWER OF CONSTRAINT
------------------------
+### THE POWER OF CONSTRAINT
 
 Why is it that people work better at their jobs instead of in their own time? A
 short three word saying is "free your mind", as any short saying it does not
@@ -101,8 +98,7 @@ find yourself.
 Now if you accept that constraints can give you freedoms, by minimizing what you
 own, the choices you have to make, what do you free yourself for?
 
-COMMON TECHNIQUES
------------------
+### COMMON TECHNIQUES
 
 Real life:
 
@@ -157,7 +153,7 @@ always seek to a way of making your writing as understandable as possible to
 everyone; the point is to write clearly about something, to write an argument or
 explanation about something, being verbose does not help unless it is a
 technical specification, even then it can be a hindrance. There are some style
-guides that deal with this, [The Economist Style Guide](http://www.economist.com/styleguide/introduction)
+guides that deal with this, [The Economist Style Guide][]
 for one.
 
 News:
@@ -175,8 +171,7 @@ when in actual fact we are getting safer each year. We do face problems, such as
 climate change, but these are less focused on in favor of the little problems
 and incidents.
 
-This view is not new, consult the essay written by Rolf Dobelli, [Avoid
-News](http://dobelli.com/wp-content/uploads/2010/08/Avoid_News_Part1_TEXT.pdf).
+This view is not new, consult the essay written by Rolf Dobelli, [Avoid News][]
 
 Minimize the sources of information you have in your life and focus on thinking
 instead of memorizing facts, facts are useless without understanding.
@@ -203,8 +198,13 @@ This article deals more with the thinking behind a largely disorganized
 community, it does not deal with the design aspects of things, even if a
 'minimalist' can appreciate the design movement.
 
-FINAL WORD
-----------
+Although on [webdesign][] I would start reading an article I found posted on Hacker
+New.
 
-LINKS
------
+### FINAL WORD
+
+### LINKS
+
+[webdesign]: http://justinjackson.ca/words.html
+[Avoid News]: http://dobelli.com/wp-content/uploads/2010/08/Avoid_News_Part1_TEXT.pdf
+[The Economist Style Guide]:http://www.economist.com/styleguide/introduction

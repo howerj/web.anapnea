@@ -3,6 +3,7 @@ TODO: Richard Howe, website
 
 * Website
 	- Fix directory structure.
+	- Finish menu change.
 
 * Blog.
 	- Checking and expanding on the entries.
