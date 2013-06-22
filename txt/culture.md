@@ -38,3 +38,4 @@ Unfortunately I do not offer a solution, you can keep pestering companies to
 release their code after all the profit has been squeezed out of them, you may
 even be successful. I am just telling you of a problem that exists that you may
 not be aware of.
+

@@ -99,9 +99,6 @@ because they encourage *consumption over creation* and the ecosystems
 surrounding them are absolutely terrible along with the software that runs on
 them. 
 
-Thank you for reading, please send any suggestions via Email (available on
-the main page).
-
--- howerj
+Thank you for reading!
 
 ["The Coming Civil War over General Purpose Computing"]: http://boingboing.net/2012/08/23/civilwar.html

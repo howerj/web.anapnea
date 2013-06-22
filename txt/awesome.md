@@ -137,14 +137,4 @@ word processor to LaTeX, use git to keep control of things, learn how to make
 makefiles. It pays off.
 
 
-### Final words
 
-Agree? Disagree? Want to file a bug report? Contact me! My Email address
-is on the main page.
-
--- howerj
-
-ADDENDUM 
---------
-
-I will not any other contributions and errors here.

@@ -71,3 +71,4 @@ be enforced.
 Do not complain about ad-blockers, do or die (or earn slightly less if your main
 demographic does not use them too much). The Internet was not created for you,
 but as a method to share and exchange data, it will do just fine without you.
+

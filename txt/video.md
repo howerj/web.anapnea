@@ -20,5 +20,3 @@ something that could be described in a paragraph.
 Thanks for going to the trouble of making a video tutorial however. I should not
 be ungrateful, I just believe that there are better ways of presenting
 information.
-
--- howerj

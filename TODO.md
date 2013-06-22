@@ -1,10 +1,6 @@
 TODO: Richard Howe, website
 ===========================
 
-* Website
-	- Fix directory structure.
-	- Finish menu change.
-
 * Blog.
 	- Checking and expanding on the entries.
 	- Sign Entries
@@ -12,7 +8,7 @@ TODO: Richard Howe, website
 
 * Projects section
 	- Add more detail to projects.
-	- Include tar.xz of project.
+	- Include tar.xz of projects.
 
 * Links section.
 

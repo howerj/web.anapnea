@@ -205,8 +205,6 @@ New.
 
 Focus on what is important in life.
 
--- howerj
-
 [webdesign]: http://justinjackson.ca/words.html
 [Avoid News]: http://dobelli.com/wp-content/uploads/2010/08/Avoid_News_Part1_TEXT.pdf
 [The Economist Style Guide]:http://www.economist.com/styleguide/introduction
