@@ -2,7 +2,8 @@
 
 Some thing to think and worry about, potentially:
 
-    We do not have the source code for most of the games that we play.
+    We do not have the source code 
+    for most of the games that we play.
 
 Now you can say to yourself; "Well this is obvious, how are game developers
 meant to make money if they just *give* the programs source away". Maybe they
