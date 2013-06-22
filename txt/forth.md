@@ -1,4 +1,4 @@
-### FORTH: YES AND NO
+### FORTH: Yes and no
 
 I think [FORTH][] is a wonderful language, it is simple and powerful. It
 has been called both a high and a low level language *at the same
@@ -29,7 +29,7 @@ controller.  You can start programming on the device itself. Of course
 you get get hosted Forth implementations as well, that simply is not
 possible with modern C.
 
-### WHAT IS FORTH
+### What forth is
 
 There has been some efforts to standardize the language, but because
 people can implement their own forth with little effort the standards
@@ -50,7 +50,7 @@ Reverse Polish Notation to make the language designer's job easier.
 * The language should sort of act like a interactive macro assembler.
 * You should do the job of the compiler; optimization is up to you.
 
-### LANGUAGE OF THE FUTURE
+### Language of the future
 
 Forth, despite all its advantages, has not caught on and that is for
 a reason.  It is not the language of the future, it may not even be
@@ -73,7 +73,7 @@ I think forth makes a good toy, a good way to learn about computing, a good
 system to run on resource constrained systems, but there are better tools out
 there now.
 
-### A SMALL EXAMPLE
+### A small example
 
 A submission to the [International Obfuscated C Coding Competition][]
 by 'buzzard' first got me interested in Forth. The implementation was
@@ -88,7 +88,6 @@ amount of room.
 
 ### Appendix
 
-#### Links
 [Tiny Core Linux]: http://tinycorelinux.net/downloads.html
 [Tiny C Compiler]: http://bellard.org/tcc/
 [amforth]: http://amforth.sourceforge.net/

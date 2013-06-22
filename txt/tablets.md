@@ -1,5 +1,4 @@
-TABLETS: SUBOPTIMAL COMPUTING
-=============================
+## Tablets: Suboptimal computing
 
 Let me preface this by saying that the title is a little bit inflammatory; you
 have just bought a tablet costing five hundred dollars or pounds and you need to
@@ -13,9 +12,7 @@ I could understand the purchase of one of the incredibly cheap android tablets
 generally expensive). I could understand that and using it for a simple specific
 purpose, like a more general purpose E-book reader while you are traveling.
 
-
-THE PC IS NOT GOING AWAY
-------------------------
+## The PC is not going away
 
 A theme that is often repeated and often refuted is that the PC is dying, it may
 become less relevant, although not to those that have to do *actual work*, but
@@ -40,8 +37,7 @@ PC (or laptop which I am lumping in to all of this). Tablets are *new* and
 
 Now that we have got that out of the way.
 
-GRUE PIE THUNKING IS NOT VERY APT-GET
--------------------------------------
+### Grue pie thinking is not very apt-get
 
 Companies, some companies, dream of a time when you will use their 'ecosystem'
 which as far as I can tell is they are trying to sell you their version of shiny
@@ -61,7 +57,7 @@ voiding its warranty or bricking the device.
 
 There is a tendency towards more invasive Digital Rights Management and 'Walled
 Gardens', something which has been called ["The Coming Civil War over General
-Purpose Computing"](http://boingboing.net/2012/08/23/civilwar.html). The Civil
+Purpose Computing"][]. The Civil
 War metaphor between those that do and those that do not want it, although there
 is a third party, those that do not care which by and large is most consumers.
 
@@ -71,8 +67,7 @@ their form factors more optimal. It is because it is almost impossible to go
 wrong with them. People simply do not care that they are buying convenience but
 selling their future.
 
-'APP' STORES
-------------
+### 'App' stores
 
 'App' stores bring down a massive thunderous rage from me. They are *not* how
 software repositories should work, you may find this hard to believe but there
@@ -88,8 +83,7 @@ they apply to phones as well. Essentially all they are is scaled up phones, so
 the same problems apply.
 
 
-THE HARDWARE
-------------
+### The hardware
 
 You may have noticed that I have not been criticizing the hardware itself too
 much just the software that runs on them, and the 'ecosystems' that go along
@@ -98,8 +92,7 @@ keyboard is a must, I prefer a bigger screen, I like to use a mouse sometimes,
 tablets do not suck because of the hardware although it does preclude me using
 them for what I do. Tablets suck because...
 
-FINAL WORDS
------------
+### Final words
 
 Tablets suck because people try to use them for what they are not for (work), 
 because they encourage *consumption over creation* and the ecosystems
@@ -110,3 +103,5 @@ Thank you for reading, please send any suggestions via Email (available on
 the main page).
 
 -- howerj
+
+["The Coming Civil War over General Purpose Computing"]: http://boingboing.net/2012/08/23/civilwar.html

@@ -1,5 +1,4 @@
-VIDEO TUTORIALS
-===============
+## Video Tutorials
 
 Please do not make a video tutorial. Do not do it. If you want to teach people
 how to do something; simple, complex, a tiny piece of software, a neat trick
@@ -16,8 +15,7 @@ something that could be described in a paragraph.
 4. I have to use a Flashplayer of some sort.
 5. I can read faster than you can talk.
 
-THANKS
-======
+### Thanks
 
 Thanks for going to the trouble of making a video tutorial however. I should not
 be ungrateful, I just believe that there are better ways of presenting

@@ -1,4 +1,4 @@
-## MINIMALISM
+## Minimalism
 
 Minimalism is to different people different things, the term started out in
 relation to a design philosophy but to certain subsections of the online
@@ -20,7 +20,7 @@ that is not a difficult position to defend.
 
 At it's core it is about reduction to what is necessary and nothing more.
 
-### COMMON PROBLEMS
+### Common problems
 
 Let me walk you through a few situations:
 
@@ -59,7 +59,7 @@ but it can *help*. Minimalism certainly is not an overarching philosophy or a
 way of life, it is an *aid*.
 
 
-### THE POWER OF CONSTRAINT
+### The power of constraint
 
 Why is it that people work better at their jobs instead of in their own time? A
 short three word saying is "free your mind", as any short saying it does not
@@ -98,7 +98,7 @@ find yourself.
 Now if you accept that constraints can give you freedoms, by minimizing what you
 own, the choices you have to make, what do you free yourself for?
 
-### COMMON TECHNIQUES
+### Common techniques
 
 Real life:
 
@@ -201,9 +201,11 @@ community, it does not deal with the design aspects of things, even if a
 Although on [webdesign][] I would start reading an article I found posted on Hacker
 New.
 
-### FINAL WORD
+### Final words
 
-### LINKS
+Focus on what is important in life.
+
+-- howerj
 
 [webdesign]: http://justinjackson.ca/words.html
 [Avoid News]: http://dobelli.com/wp-content/uploads/2010/08/Avoid_News_Part1_TEXT.pdf
