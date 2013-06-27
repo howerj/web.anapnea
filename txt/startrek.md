@@ -120,7 +120,33 @@ machinations of capitalism where a capitalist market place can exist, but the
 textbook industry is not a textbook example of one, competition is not great and
 the audiences are captive.
 
+I should probably talk more on this issue in a different article.
+
 #### Films
+
+Now here is something that I think would greatly suffer, which is a shame but
+not the end of the world. I have argued that music and literature would not be
+changed largely, or even improved, films however need those large budgets. 
+
+Camera crews, editing, the special effects, the props all cost a huge amount of
+money, one thing that I do not particularly care about is the astronomical
+figures that A-list film stars can command, those figures can plummet and I
+would not care.
+
+It is certainly possible to create good cinema with more modest equipment but it
+is more difficult, eventually is could be possible that the home environment is
+capable of a large amount of the work as it is getting to be in the audio realm.
+Cameras are coming down in price, but that is only part of the equation. I do
+think films would suffer greatly. Despite the prevalence of video hosting site,
+those sites hold home made videos that are obviously not studio quality, unlike
+the written word, unlike the song.
+
+Apart from product placement in films, or the shaky home video, I see no method
+of delivering comparable quality. I can only say; is making most people
+criminals worth the added value of the film. There are other forms of
+entertainment and it would be a joke to say that most films, even or especially
+the big budget ones, will even be remembered in the years to come.
+
 #### Photography
 #### Journalism
 #### Scientific Journals
