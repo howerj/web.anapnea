@@ -148,8 +148,50 @@ entertainment and it would be a joke to say that most films, even or especially
 the big budget ones, will even be remembered in the years to come.
 
 #### Photography
+
+While professional photography is expensive and involves time and skill, they
+are the ones that are ultimately in control of who gets the digital copies
+initially. Currently you are prevented from making reproductions I believe, if
+copyright laws did not exist you could *legally* make those reproductions, they
+would still control the initial distribution which is usually to the person who
+commissioned the photographer, the field would be largely be left untouched to
+my knowledge.
+
 #### Journalism
+
+Journalism, that is traditional journalism, is radically changing as it is, it
+is however about the *news* and producing new content from it. It is competitive
+as it is, the first to break a story the winner for those short days - hours
+even - when it is still relevant. Copyright and lack of it should not change the
+business too much, other factors are far more important to its future now such
+as the rise of more informal and online journalism.
+
 #### Scientific Journals
+
+A major issue for many people is free access to tax-payer funded research, which
+I agree with. Putting papers behind a pay wall serves no purpose but to allow
+ignorance where non is needed, worse is that the people who seek out this
+knowledge do not want that continued ignorance but it is thrust upon them. I
+could write up about alternatives, how the publishers are *largely* not needed
+but that has been done before, it is an easy target, instead scientists *are*
+taking actions already. It is not something that needs to be covered.
+
+#### Video games
+
+Much like the film industry this is an industry that could be heavily affected.
+They rely on big budgets for all the development that goes into them, although
+there is a bustling indie game development movement. I believe video games are a
+case where minimal DRM can be successful, just make it easier for the common man
+to buy rather than copy and you win, media however is incredibly easy to copy
+and to change formats but if a game is built for a console you cannot just copy
+it over and play it on the computer. Multiplayer functionality adds another
+dimension of control for those companies.
+
+I do not like DRM, I do not like having to have accounts to play games, but so
+long as it does not affect my general computing experience I have no problem
+with it. I still would not afford legal protection for game developers small 
+or large just as I would not the other fields.
+
 #### Programming, engineering, technical fields.
 
 I am definitely not calling for all programming works to become open source,
@@ -159,9 +201,25 @@ some alternative and largely we have that already; in engineering patents, and
 in software we do have copyright - but I think the field can largely exist
 without it anyway, here is why:
 
+Engineering fields are complicated, some of them are even safety critical, even
+if a customer obtained the source code, which the customer will probably not,
+then it will not necessarily mean that they have the expertise to actually do
+anything with it. Often times the code is married to a particular product only
+and would be useless elsewhere. Media is something we can capture, recapture,
+format, reformat, convert, archive, compress, tag and do all that automatically
+once it has been digitized. We still struggle to make code cross platform. If
+you want to make a new product - you *have* pay someone to do it because the it
+is for a specific thing that usually has not been done before, it is arcane and
+different, some code can be reused but not all of it, it will have to be bent to
+the task at hand which cannot be automated. 
 
+When we make something physical we can patent it.
 
 ### Patents
+
+Patents, not software patents which have no proper use, protect a physical
+invention or method, something which companies but not people are prevented from
+copying generally and it is far easier to regulate business than the individual. 
 
 ### Attribution and defending open source works.
 
@@ -170,11 +228,12 @@ open source projects should be defended when their licenses want for it as it is
 defending the code against corporations and not the individual generally. 
 
 ### Real world examples
-Open source software.
-Books
-Music
-Work
 
+I already gave examples of books that have been produced and are being given
+away for free, there are also examples of high quality software that is open
+source and free as well, the most obvious being the GNU project and the Linux
+kernel and to protect these type of projects is the only reason I can think of
+that is a decent use of copyright (or 'copyleft' as it is known).
 
 [year]: https://en.wikipedia.org/wiki/Books_published_per_country_per_year
 [list of lists]: http://stackoverflow.com/questions/194812/list-of-freely-available-programming-books

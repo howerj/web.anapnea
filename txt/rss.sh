@@ -1,4 +1,4 @@
-#/bin/sh
+#/bin/bash
 ## Process RSS files, testing.
 rm -f tmp.1.txt tmp.2.txt;
 for i in *.md;
