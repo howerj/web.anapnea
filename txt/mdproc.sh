@@ -26,11 +26,12 @@ do
   rm tmp.html;
 
   # RSS
+  FILE_DATE=`stat -c='%y' $NEWNAME.md | cut -c 1 --complement | cut -d ' ' -f 1`;
   echo "<item>" >> $RSS_FEED;
   echo "  <title>$NEWNAME</title>" >> $RSS_FEED;
   echo "  <link>$RSS_SITE/txt/html/$NEWNAME.html</link>" >> $RSS_FEED;
   echo "  <guid>$RSS_SITE/txt/html/$NEWNAME.html</guid>" >> $RSS_FEED;
-  echo "  <description>(`stat -c='%y' $NEWNAME.md`)" >> $RSS_FEED;
+  echo "  <description>($FILE_DATE)" >> $RSS_FEED;
   echo "  `head -n 5 $NEWNAME.md`" >> $RSS_FEED;
   echo "  ...</description>" >> $RSS_FEED;
   echo "</item>" >> $RSS_FEED;
