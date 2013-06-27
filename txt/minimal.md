@@ -203,7 +203,7 @@ New.
 
 ### Final words
 
-Focus on what is important in life.
+Focus on what is important in life, for me it is my Leonor.
 
 [webdesign]: http://justinjackson.ca/words.html
 [Avoid News]: http://dobelli.com/wp-content/uploads/2010/08/Avoid_News_Part1_TEXT.pdf
