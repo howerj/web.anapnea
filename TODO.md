@@ -3,6 +3,8 @@ TODO: Richard Howe, website
 * Automatic Code Generation
 	- The site should be generated largely automatically where
 	possible. This is done for the markdown blog.
+	- This is a definite case for a makefile, only processing what needs
+	  to be processed.
 
 * RSS
 	- The RSS feed should add new entries in the order they
@@ -22,4 +24,3 @@ TODO: Richard Howe, website
 	- Include tar.xz of projects.
 
 * Links section.
-
