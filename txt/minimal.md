@@ -198,8 +198,8 @@ This article deals more with the thinking behind a largely disorganized
 community, it does not deal with the design aspects of things, even if a
 'minimalist' can appreciate the design movement.
 
-Although on [webdesign][] I would start reading an article I found posted on Hacker
-New.
+Although for [webdesign][] I would start reading an article I found posted on 
+Hacker New.
 
 ### Final words
 
