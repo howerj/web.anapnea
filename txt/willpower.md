@@ -47,3 +47,9 @@ goal - that willpower in every human. I do not know how to do this, perhaps it
 can be achieved through the correct teachings and designing the right systems
 around yourself, perhaps not, but if there is one thing that *I* desire it is
 that strength of character above all else.
+
+### The solution
+
+I do not have a solution, only a criticism, a question. I do not propose a
+solution and it would be ridiculous to ask for people to change, for human
+nature to change. I just think it is an interesting area of inquiry.

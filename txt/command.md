@@ -116,6 +116,31 @@ calculated by avoiding understanding how they work.
 Learning how to program and the general underpinnings of computing is the new
 literacy and mathematics of our age.
 
+Entire jobs could be replaced if people where just slightly more proficient
+with computers, I am not actually asking for as much as I have said, for the
+ability to program. I would wager that the majority of people can no longer do
+simply calculus even though they were taught it, but learning it strengthened
+other simpler areas of mathematics. If you head over to [Tales from tech support][] 
+on Reddit you can cringe for yourself at the technical ineptitude
+shown. I want people to learn to program, to use the command line, to learn how
+use their computer works so they can use more complex tools. I have heard horror
+stories about how people would search *manually* through digital documents
+because they did not trust their computers search function. Simply things can
+have massive improvements in productivity.
 
+I also think it is important for the individual and collective of individuals,
+people are willing to sell their personal data to companies and then to
+government for practically nothing. But by adopting just simple changes and
+browser add ons they can make this much more difficult to achieve, by using
+different services such as [Duck Duck Go][] instead of Google, a search engine
+that cares about your privacy. Or by using Ad blockers, plug ins that find the
+secure [HTTPS alternative for websites][], then there is things like [GPG][] for
+encrypted Email. If more people knew about these issues then more people would
+be empowered to deal with them and at the moment we have a population that is
+illiterate when it comes to computers, your rights will suffer for it.
 
 [Unix Philosophy]: https://en.wikipedia.org/wiki/Unix_philosophy
+[Tales from tech support]: http://www.reddit.com/r/talesfromtechsupport
+[Duck Duck Go]: https://duckduckgo.com/
+[HTTPS alternative for websites]: https://www.eff.org/https-everywhere
+[GPG]: http://gnupg.org/
