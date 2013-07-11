@@ -1,3 +1,5 @@
+## 2013-06-15 LaTeX.md
+
 ## LaTeX and Markdown
 
 This is not just about [LaTeX][], it will be about [markdown][] (and other mark*up*

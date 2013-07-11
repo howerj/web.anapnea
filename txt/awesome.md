@@ -1,3 +1,5 @@
+## 2013-06-15 awesome.md
+
 ## Text files
 
 A text file about what you should be using text files for (most) of

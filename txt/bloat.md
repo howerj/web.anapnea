@@ -1,3 +1,5 @@
+## 2013-06-11 bloat.md
+
 ## Bloat
 
 I feel that it is an unfortunate facet of modern software that there is bloat in

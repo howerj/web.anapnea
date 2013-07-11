@@ -1,3 +1,5 @@
+## 2013-07-05 command.md
+
 ## The Command Line
 
 I do not know what the future holds for the Graphical User Interface (GUI) but I

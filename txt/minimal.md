@@ -1,3 +1,5 @@
+## 2013-06-15 minimal.md
+
 ## Minimalism
 
 Minimalism is to different people different things, the term started out in

@@ -1,3 +1,5 @@
+## 2013-06-15 tablets.md
+
 ## Tablets: Suboptimal computing
 
 Let me preface this by saying that the title is a little bit inflammatory; you
