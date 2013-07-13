@@ -6,6 +6,10 @@ TODO: Richard Howe, website
 	- This is a definite case for a makefile, only processing what needs
 	  to be processed.
 
+* http://www.duolingo.com/#!/howerj
+
+* Link to friends blogs
+
 * RSS
 	- The RSS feed should add new entries in the order they
 	have been created, not alphabetical order.
