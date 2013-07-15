@@ -5,10 +5,11 @@ TODO: Richard Howe, website
 	possible. This is done for the markdown blog.
 	- This is a definite case for a makefile, only processing what needs
 	  to be processed.
+	- Makefiles used to generate the site
 
 * http://www.duolingo.com/#!/howerj
-
 * Link to friends blogs
+* Link to the IRC channel of anapnea.
 
 * RSS
 	- The RSS feed should add new entries in the order they
