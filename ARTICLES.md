@@ -1,5 +1,7 @@
 # Articles I could, or should write up on.
 
+* Arch vs (compared to) Debian.
+
 * Tool making:
 	Programming, woodworking, electronics
 
