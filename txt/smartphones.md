@@ -45,12 +45,14 @@ station entirely and now you have a system that behaves exactly like your
 computer at home because it *is* your computer from home.
 
 Give me a phone that I can run mutt, vim and GCC with ease and is simple enough
-as typing in a command with your package manager and I will be finally happy
-with my phone.
+as typing in a command with your package manager to acquire them and I will be 
+finally happy with my phone.
 
 For what *most* people use their phone for the power in a smart phone will
 suffice, they really are amazing sensor, computing, storage and communications
 devices. It will not be long until we have 128GB SD cards which is also large
 enough for a lot of things.
 
-I just wish this hypothetical device was real.
+I just wish this hypothetical device was real. An ultimate in minimalist
+electronics where we only have to have *one* device for all our purposes
+(nearly).
