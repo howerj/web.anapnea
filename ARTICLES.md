@@ -7,8 +7,6 @@
 
 * Tiny core linux
 
-* Hackgreen "secret" nuclear bunker
-
 * Google glass
 	- Inevitability of a loss of privacy.
 	- Not used for what it has been intended for.

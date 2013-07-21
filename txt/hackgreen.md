@@ -78,16 +78,41 @@ would function as a command center if the worst happened.
 ![hackgreen](/img/jpg/hackgreen/IMG_20130720_115247.jpg "A very 1980s command
 center")
 
+More old, and robust, electronics. I wonder how much of this could be replaced
+by a single desktop computer.
+
 ![hackgreen](/img/jpg/hackgreen/IMG_20130720_115351.jpg "Bikini state Red!")
+
+I find old electronics fascinating, how they could build and design such systems
+without the level of computer aided design we have nowadays as well as the
+sophistication of such systems, even though primitive by todays standards. This
+was once *futuristic*, nowadays computers are ubiquitous, in places where we do
+not even know about.
+
 ![hackgreen](/img/jpg/hackgreen/IMG_20130720_124942.jpg "Computer, they are not
 built like they used to be, they're built better!")
+
+Once a super secret warning system where just taking a picture of this system
+would have been treasonous, it is now on display for all (who pay) to see!
+
 ![hackgreen](/img/jpg/hackgreen/IMG_20130720_125427.jpg "Early Warning System
 moved from RAF Wycome")
 ![hackgreen](/img/jpg/hackgreen/IMG_20130720_125436.jpg "Early Warning System,
 different shot")
+
+More **COMMUNISM**, unfortunately anything related to the soviet union was
+placed in ill lit areas to create atmosphere which made taking photos difficult.
+
 ![hackgreen](/img/jpg/hackgreen/IMG_20130720_125823.jpg "More COMMUNISM!")
 ![hackgreen](/img/jpg/hackgreen/IMG_20130720_125840.jpg "Even *more* COMMUNISM!")
 
+
+### Not shown here
+
+There is a lot that is not shown here, either because I decided not to upload
+those pictures or because it is of an audio-visual nature. There are sounds,
+alarms, recording and videos playing as well that I could not capture. I think
+it is a good trip out.
 
 [website]: http://www.hackgreen.co.uk/
 [Wikipedia]: https://en.wikipedia.org/wiki/Hack_Green_Secret_Nuclear_Bunker
