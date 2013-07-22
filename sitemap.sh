@@ -1,5 +1,10 @@
 #/bin/bash
 LIST=`find -name "*.html"`;
+LIST="`find -name '*.pdf'` $LIST";
+LIST="`find -name '*.png'` $LIST";
+LIST="`find -name '*.jpg'` $LIST";
+LIST="`find -name '*.gif'` $LIST";
+LIST="`find -name '*.md'`  $LIST";
 FILE=sitemap.xml
 WEBSITE="http://work.anapnea.net"
 rm -f $FILE;
