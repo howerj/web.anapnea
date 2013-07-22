@@ -13,6 +13,13 @@
 
 * Arch vs (compared to) Debian.
 
+* Hobbies:
+	Programming
+	Wood working
+	Lock picking
+	Learning a language
+	Reading
+
 * Tool making:
 	Programming, woodworking, electronics
 
