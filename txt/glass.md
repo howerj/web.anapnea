@@ -1,6 +1,6 @@
 ## 2013-07-22 glass.md
 
-## Google Glass and the inevitable loss of public privacy.
+## Google Glass, privacy and electric Gods
 
 [Google Glass][], the most successfully promoted wearable computer, although far
 from the first, may finally bring seamlessly integrated computing with an
@@ -86,10 +86,26 @@ only be wary if this starts to happen, as it has already happened with
 We must make sure that a man made God is not created as in the vein of the video
 game Deus Ex where a [conversation][] with an artificial intelligence proves
 somewhat illuminating and disturbing, an AI which plans to rule and can do so
-because of the world wide centralization of communications. Centralization of
-information provides many benefits but also is a powerful lever against the
-peoples, this is a problem, not a (decentralized) mass surveillance system where
-no one person controls anything.
+because of the world wide centralization of communications. Is the Google search
+engine already a God, albeit a minor one? We ask it all the important questions
+in life instead of deity, it knows everything about us, it is almost all seeing,
+it knowns all that is knowable.
+
+    "The basic human need to be watched was once satisfied
+    by God. Now, the same functionality can be replicated
+    with data-mining algorithms." -- Morpheus
+
+Centralization of information provides many benefits but also
+is a powerful lever against the peoples, this is a problem, not a
+(decentralized) mass surveillance system where no one person controls
+anything.
+
+It may seem odd to bring up all of this in an article that purports to be about
+Google Glass but when it comes to privacy all of this is related. When it comes
+to security you have to take into account all kinds of silly little things, as
+do you when it comes to society at large. Computers and mobile phones while
+seemingly just a piece of technology do shape our culture and humanity at
+large.
 
 In the future you will have to fight harder for privacy and anonymity and what
 those two words mean will be redefined.

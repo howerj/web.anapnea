@@ -1,5 +1,11 @@
 # Articles I could, or should write up on.
 
+* Day to day stuff
+
+* Improve existing articles
+
+* Regex library
+
 * Minimalist computing, tiny core linux
 	- Links
 	<https://kmandla.wordpress.com/>
