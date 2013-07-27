@@ -203,10 +203,54 @@ community, it does not deal with the design aspects of things, even if a
 Although for [webdesign][] I would start reading an article I found posted on 
 Hacker New.
 
+### Different kinds of minimalism in computing.
+
+* Cloud storage.
+
+Within the community there is a camp that prefers to use as many external cloud
+storage applications as possible, that simplifies and minimized their life by
+off loading the complications of maintaining such systems to an external actor. 
+
+It certainly is *one* kind of minimalism, that of one that reduces complexity
+that is shown to the user (but not necessarily minimal in other aspects). It
+does one thing as well, it offloads power. The cloud service provider is now in
+control of your data and can do with it what they will. 
+
+* Thumb drive / USB flash drive.
+
+A slightly different kind of minimalism is where you have direct control of your
+data, again have minimal hardware requirements, but you are more in control of
+your data. Especially if you boot from a [Live CD][], as the hardware *itself*
+is unlikely to be compromised. You could use computers in Internet cafés,
+University or school campuses, at work, wherever you can so long as you actually
+do have access. You just move around the information.
+
+I very much like this idea, although it is one that does not suit me.
+
+* No computers.
+
+The final one is no computers as all, which is not an option for a lot of
+people and in this day an age is more ascetic than minimalist. 
+
+For all the good computers do they also create problems, one of too much
+information on power which ends up being paralyzing instead of liberating. Using
+a pen and paper, a dumb phone and a calculator (I am *very* much aware these
+contain computers, yet they are obviously not what most people think about when
+they are talking about them), books and analogue devices can be very much
+liberating. To those that find the distraction wrought upon them by these
+massively interconnected calculating machines it can be *more* productive not to
+use them.
+
+As time goes on these people will become more of a minority unless a thriving
+subculture that goes against the trend forms.
+
 ### Final words
 
-Focus on what is important in life, for me it is my Leonor.
+Focus on what is important in life, for me it is my Leonor. You should seek
+minimalism so you can instead concentrate on what makes you happy and not try to
+do it for its own sake.
 
 [webdesign]: http://justinjackson.ca/words.html
 [Avoid News]: http://dobelli.com/wp-content/uploads/2010/08/Avoid_News_Part1_TEXT.pdf
 [The Economist Style Guide]:http://www.economist.com/styleguide/introduction
+[Live CD]: https://en.wikipedia.org/wiki/Live_CD
