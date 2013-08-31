@@ -12,7 +12,10 @@ researching things more.
 
 * Day to day stuff
 
-* Ubuntu smartphone, failed.
+* My final year project, directions and possibilities, technical
+report.
+
+* Perl! Awesome language
 
 * Improve existing articles
 
