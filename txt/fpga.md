@@ -61,10 +61,44 @@ higher level languages where you can abstract this out and because there is no
 real standard architecture, there are differences that matter between the two
 leading brands.
 
+### FPGAs are difficult.
+
+It is a simply fact they are difficult, you have to plan what you want to do
+out, you can not simply hack away at things but you *have* to plan things out,
+do your research *well* and execute it correctly. 
+
+It is also a completely different way of thinking, everything is concurrent 
+and things have to be *inferred* instead of explicitly stated; for example in C
+if you do something such as:
+
+	c = b * a;
+
+You know what you will get. In VHDL:
+
+	c <= b * a;
+
+	and
+
+	c := b * a;
+
+Are *very* different. But let us ignore that an concentrate on the
+multiplication. This has to be describe in hardware and it is done magically for
+you. However it is not clear from looking at the code *how* it will be
+described in hardware, is it a physical multiplier or will it be one composed
+entirely of Look Up Tables? From the code itself you cannot tell. You have no
+idea from the code itself how long that operation will take. It tells you very
+little of how the hardware will behave.
+
+There are many sources of confusion for someone just getting started with HDLs
+and there is a dearth of good code and tutorials available.
+
 ### Final words
 
 There are things that you can do with an FPGA that you will never be able to do
 with a normal processor or even a GPU, there are very good reasons to use them
 and learn about them, even and especially for the hobbyist. 
+
+They are well worth learning about, even if to only learn new programming
+paradigms and open up the *possibility* of using on for something.
 
 [FPGAs]: https://en.wikipedia.org/wiki/Field-programmable_gate_array

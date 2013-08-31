@@ -7,6 +7,8 @@ TODO: Richard Howe, website
 	  to be processed.
 	- Makefiles used to generate the site
 
+* Redesign scripts in Perl.
+
 * http://www.duolingo.com/#!/howerj
 * Link to friends blogs
 * Link to the IRC channel of anapnea.

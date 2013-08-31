@@ -1,6 +1,18 @@
-# Articles I could, or should write up on.
+### What I *should* do:
+
+* I think I should concentrate on article quality and length, as such I
+should be going back and editing my articles, adding in more words, 
+researching things more.
+
+* Proof read! I definitely should be doing more of this.
+
+### Articles I could, or should write up on.
+
+* The best game ever! Deus Ex
 
 * Day to day stuff
+
+* Ubuntu smartphone, failed.
 
 * Improve existing articles
 
@@ -39,7 +51,4 @@
 * Tool libraries, hacker spaces and normal libraries.
 
 * Post scarcity World?
-
-* FPGAs; The future or not?
-	- Lack of open tools and GCC equivalent.
 
