@@ -22,7 +22,18 @@ removing some others due to them not meeting timing constraints).
 
 ### Peripherals:
 
+As of September 2013 the system contains the following in the way of
+peripherals:
+
+* VGA Text Mode output
+* General Purpose Timer
+* DAC Interface for the AD5641 (not tested).
+* UART, Transmit and receive.
+* Switch and LED output.
+
 ### Firmware:
+
+The firmware is not much to behold.
 
 ### Current Status:
 

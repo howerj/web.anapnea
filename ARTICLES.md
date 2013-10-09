@@ -1,5 +1,6 @@
 ### What I *should* do:
 
+
 * I think I should concentrate on article quality and length, as such I
 should be going back and editing my articles, adding in more words, 
 researching things more.
@@ -7,6 +8,8 @@ researching things more.
 * Proof read! I definitely should be doing more of this.
 
 ### Articles I could, or should write up on.
+
+* Article on automatic code generation in C and VHDL? Lisp? Forth?
 
 * The best game ever! Deus Ex
 
