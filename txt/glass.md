@@ -66,53 +66,48 @@ is a right that is *off* by default and has to be clawed back.
 
 I do not find video recordings to be a huge violation of privacy but more
 what people do with your data; your search queries, social connection
-graphs, messages, here is where I think the major violations are as these
-are very easy to bring together and process with large incentives to
-bring this kind of data together. Information like this can be used to
-[predict behavior][] and means we would have to become [stainless steel
-rats][] in order to survive.
+graphs, messages. Here is where I think the major violations of peoples
+right to control their own information occurs. This knowledge can be
+used to [predict behavior][], to divide us, to blackmail us. It means
+we would have to become [stainless steel rats][] in order to survive in
+a world that over criminalizes everything.
 
 ### We must retain control of our computers.
 
-I think the only thing that is clear is that we *must* retain control over our
-information that we produce. Over our computers, over our media that we create.
-We must not surrender our data to an external body, this is how a differential
-in power is created, even if for the sake of convenience. 
+I think the only thing that is clear is that we *must* retain control
+over the information that we produce. Over our computers, over our media
+that we create.  We must not surrender our data to an external body,
+this is how a differential in power is created, even if for the sake
+of convenience. But I do not see how this is to be achieved.
 
 ### Creating a God.
 
-I only see a problem if this data that everyone will generate is processed and
-stored on some anonymous server in the cloud. When power is centralized it
-become easier to corrupt and more disastrous when it does. I believe we should
-only be wary if this starts to happen, as it has already happened with
-"metadata", Emails and social media.
+We must make sure that a man made God is not created such as one hinted in
+the video game Deus Ex. A [conversation][] with an artificial intelligence
+proves somewhat illuminating and disturbing, an AI which plans to rule and
+can do so because of the world wide centralization of communications. Is
+the Google search engine already a God, albeit a minor one? We ask it
+all the important questions in life instead of deity, it knows everything
+about us, it is almost all seeing, it knowns all that is knowable.
 
-We must make sure that a man made God is not created as in the vein of the video
-game Deus Ex where a [conversation][] with an artificial intelligence proves
-somewhat illuminating and disturbing, an AI which plans to rule and can do so
-because of the world wide centralization of communications. Is the Google search
-engine already a God, albeit a minor one? We ask it all the important questions
-in life instead of deity, it knows everything about us, it is almost all seeing,
-it knowns all that is knowable.
-
-    "The basic human need to be watched was once satisfied
-    by God. Now, the same functionality can be replicated
-    with data-mining algorithms." -- Morpheus
+    "The basic human need to be watched was once satisfied by God. Now,
+    the same functionality can be replicated with data-mining
+    algorithms." -- Morpheus
 
 Centralization of information provides many benefits but also
 is a powerful lever against the peoples, this is a problem, not a
 (decentralized) mass surveillance system where no one person controls
 anything.
 
-It may seem odd to bring up all of this in an article that purports to be about
-Google Glass but when it comes to privacy all of this is related. When it comes
-to security you have to take into account all kinds of silly little things, as
-do you when it comes to society at large. Computers and mobile phones while
-seemingly just a piece of technology do shape our culture and humanity at
-large.
+It may seem odd to bring up all of this in an article that purports
+to be about Google Glass but when it comes to privacy all of this is
+related. When it comes to security you have to take into account all
+kinds of silly little things, as do you when it comes to society at
+large. Computers and mobile phones while seemingly just a piece of
+technology do shape our culture and humanity at large.
 
-In the future you will have to fight harder for privacy and anonymity and what
-those two words mean will be redefined.
+In the future you will have to fight harder for privacy and anonymity
+and what those two words mean will be redefined.
 
 [Google Glass]: https://en.wikipedia.org/wiki/Google_Glass
 [This]: http://mashable.com/2013/05/13/google-glass-facial-recognition/
