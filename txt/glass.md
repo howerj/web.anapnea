@@ -2,71 +2,75 @@
 
 ## Google Glass, privacy and electric Gods
 
-[Google Glass][], the most successfully promoted wearable computer, although far
-from the first, may finally bring seamlessly integrated computing with an
-omnipresent method of surveillance like no other. I believe this loss of privacy
-is going to happen and in the future it could be far more complete than this
-slight advancement, I do not think this is as dangerous as it sounds, I only
-believe it is dangerous if this power gets centralized, if these pictures are
-sent to a remote server to be processed and collated.
+[Google Glass][], a newly promoted wearable computer, but not the first,
+may finally bring seamlessly integrated computing with an omnipresent
+method of surveillance like no other. I believe this loss of privacy
+is going to happen and in the future it could be far more complete than
+this slight advancement.
 
-Google are trying to (and I believe they are doing so only for publicity reasons
-in the initial phases of deployment) restrict what kind of applications get put
-into the application market, this is to assuage fears that this device could be
-used for more nefarious purposes, or creepy ones at least. I believe either when
-competitors launch a similar product (if this one is successful) or when it
-becomes clear, easy and the default to load these frowned upon applications via
-other methods. These applications would include facial recognition, methods for
-hiding when you are recording, other input methods for the camera, etc. [This][] is
-already being [achieved][] before any major commercial release.
+Despite what it sounds like I do not think this will constitute a
+problem or a grave threat. It will only do so iff that information
+gets centralized.
+
+Google are trying to (and I believe they are doing so only for publicity
+reasons in the initial phases of deployment) restrict what kind of
+applications get put into the application market, this is to assuage
+fears that this device could be used for more nefarious purposes, or
+creepy ones at least. I believe either when competitors launch a similar
+product (if this one is successful) or when it becomes clear, easy and
+the default to load these frowned upon applications via other methods,
+then Google will cave and allow something similar on their own devices.
+
+These applications would include facial recognition, methods for hiding
+when you are recording, other input methods for controlling the camera,
+etc. [This][] is already being [achieved][] before any major commercial
+release.
 
 ### The power of distributed surveillance.
 
 Imagine the worst case scenario, everyone has a Google Glass equivalent
-constantly on and constantly recording and you have no idea whether to not this
-is true or not. It is not as far fetched as it sounds, everyone has mobile
-phones (practically) so everyone is connected at all times. Perhaps in the
-future we may meld man and machine further creating a true cyborg in the science
-fiction sense in which case there would be no possible way of separating these
-things out.
+constantly on and constantly recording, if they want.  It is not as
+far fetched as it sounds, practically everyone has mobile phones so to
+some degree they are connected and traceable at all times.  Perhaps in
+the future we may meld man and machine further creating a true cyborg,
+in which case this will be the norm.
 
-What kind of society would this create?
-
-Keep in mind that I am not painting the picture of a totalitarian regime forcing
+This begs the question as to what society this will create.  Keep in
+mind that I am not painting the picture of a totalitarian regime forcing
 cameras into everyones home but instead a purely voluntary system of
-distributed surveillance. 
+distributed surveillance. A totalitarian regime forcing this upon people would
+create a totally different scenario.
 
-It would probably create a very honest society, largely or even more free from
-corruption, you could never be sure the person you are dealing with is recording
-you are not. Perhaps corrupt officials will have to conduct business with people
-that are one hundred percent verified as organic. 
+It would probably create a very honest society, even more free from
+corruption, you could never be sure the person you are dealing with is
+recording you or not. Perhaps corrupt officials will have to conduct
+business with people that are one hundred percent verified as organic.
 
-I could image that it will make solving crime much easier, violent criminals
-being *always* caught in the act and the victims able to relay that information
-to the authorities as the crime is being committed, all voluntarily of course.
+I could image that it will make solving crime much easier, violent
+criminals being *always* caught in the act and the victims able to relay
+that information to the authorities as the crime is being committed,
+all voluntarily of course.
 
 Perhaps these systems could be used by criminals as well, a facial recognition
 database of all known police officers in conjunction with always on video
 capture and processing would allow for easier evasion of law enforcement,
-perhaps even for something as simple as avoiding the traffic police in the
-U-bahn in Munich.
+perhaps even for something as simple as avoiding the traffic police in 
+Munich's U-bahn.
 
-The future will be an exciting place.
+### What will remain private?
 
-### What will be private?
+The space that is private is dwindling but perhaps only your home,
+your computer and your mind will remain private and only to those that
+actually care about privacy in the first place. It might be that privacy
+is a right that is *off* by default and has to be clawed back.
 
-I believe, or hope, that the home will always remain private given you control
-who comes in. Places aways from other people will be as well. You mind is
-*always* the only place that can remain truly private. You can make your actions
-private on a computer, but you do have to know what you are doing.
-
-It is clear that what remains private is ever shrinking, but I do not find video
-recordings to be a huge violation of that but more what people do with your
-data; your search queries, social connection graphs, messages, here is where I
-think the major violations are as these are very easy to bring together and
-process with large incentives to bring this kind of data together. Information
-like this can be used to [predict behavior][] and means we would have to become
-[stainless steel rats][] in order to survive.
+I do not find video recordings to be a huge violation of privacy but more
+what people do with your data; your search queries, social connection
+graphs, messages, here is where I think the major violations are as these
+are very easy to bring together and process with large incentives to
+bring this kind of data together. Information like this can be used to
+[predict behavior][] and means we would have to become [stainless steel
+rats][] in order to survive.
 
 ### We must retain control of our computers.
 
