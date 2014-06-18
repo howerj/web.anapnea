@@ -21,6 +21,7 @@ The target device is a development board called the Nexys 3, made by Digilent.
 
 ### Peripherals:
 
+<<<<<<< HEAD
 Most of the code for the peripherals I did not write, I do not have the
 equipment to debug the components or even a fast enough computer to debug
 them. This is a shame but instead of reinventing the wheel I have used
@@ -49,6 +50,22 @@ A set of push buttons that look like a game pad controller.
 A row of 8 switches.
 
 * LEDs
+=======
+As of September 2013 the system contains the following in the way of
+peripherals:
+
+* VGA Text Mode output
+* General Purpose Timer
+* DAC Interface for the AD5641 (not tested).
+* UART, Transmit and receive.
+* Switch and LED output.
+
+### Firmware:
+
+The firmware is not much to behold.
+
+### Current Status:
+>>>>>>> f8f5f49b9bdac9c1d6f7ab6e0af42f2de9607d3d
 
 A bank of 8 LEDs in line with the switches.
 
@@ -63,4 +80,4 @@ also be a requisite for a more complete experience.
 [Verilog]: https://en.wikipedia.org/wiki/Verilog
 [VHDL]: https://en.wikipedia.org/wiki/VHDL
 [FPGA]: https://en.wikipedia.org/wiki/FPGA
-[Nexys 3]:
+[Nexys 3]: http://www.digilentinc.com/
