@@ -1,0 +1,5 @@
+<map id="userdef_funcs" name="userdef_funcs">
+<area shape="rect" id="node2" href="$structcell.html" title="A tagged object representing all possible lisp data types. " alt="" coords="69,5,124,32"/>
+<area shape="rect" id="node3" href="$unioncell__data.html" title="cell_data" alt="" coords="5,124,100,151"/>
+<area shape="rect" id="node4" href="$structio.html" title="A structure that is used to wrap up the I/O operations of the lisp interpreter. " alt="" coords="197,5,236,32"/>
+</map>

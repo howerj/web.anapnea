@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['ud_5fequal',['ud_equal',['../liblisp_8h.html#ac48a67e312a4ae6bcdb18530e3d096af',1,'liblisp.h']]],
+  ['ud_5ffree',['ud_free',['../liblisp_8h.html#ac903e89b90686ec20457dad61eefdc0b',1,'liblisp.h']]],
+  ['ud_5fmark',['ud_mark',['../liblisp_8h.html#abb20edbd57998ee7900ac4a2d2050a28',1,'liblisp.h']]],
+  ['ud_5fprint',['ud_print',['../liblisp_8h.html#a5dacd906e9f76cd204a053595cc77406',1,'liblisp.h']]],
+  ['ufuncs',['ufuncs',['../structlisp.html#aedc3b51ae2087600c591b7837e9558dc',1,'lisp']]],
+  ['uncollectable',['uncollectable',['../structcell.html#aa6ca7a7d1cce7c6e7969518598500a49',1,'cell']]],
+  ['unget_5ftoken',['unget_token',['../read_8c.html#a32bc3377b9fea74ca1d4bf48d9dc4fe8',1,'read.c']]],
+  ['ungetc',['ungetc',['../structio.html#ac06024ece5679f6fc7b45bf8bbc05dff',1,'io']]],
+  ['ungettok',['ungettok',['../structlisp.html#acf3bd526593e7da167bf6693cd113e06',1,'lisp']]],
+  ['unit_2ec',['unit.c',['../unit_8c.html',1,'']]],
+  ['unit_5ftest_5fend',['unit_test_end',['../unit_8c.html#a15d941a38c33ffe6bf3fcd88ec407dbb',1,'unit.c']]],
+  ['unit_5ftest_5fstart',['unit_test_start',['../unit_8c.html#a5ecea35db0c5081954d6cdc5bb04141b',1,'unit.c']]],
+  ['unit_5ftester',['unit_tester',['../unit_8c.html#a7435af8ed15f088db2b636e0cb5bedbd',1,'unit.c']]],
+  ['unused',['Unused',['../structlisp.html#af41fc6650db09e16073e66c0bd4e7a32',1,'lisp::Unused()'],['../liblisp_8h.html#a6bc306171da085f4c7df2c66d2ff8e47',1,'UNUSED():&#160;liblisp.h']]],
+  ['us',['US',['../liblisp_8h.html#a89f9bd364d17d48182d34357c3508d05',1,'liblisp.h']]],
+  ['usage',['usage',['../repl_8c.html#aadebe2487a2c5240ab6cd02c83add0bf',1,'repl.c']]],
+  ['used',['used',['../structhashtable.html#a3dbc8a08a57bc0c74835b8e3a6763477',1,'hashtable']]],
+  ['user_5fdefined_5ftypes_5fused',['user_defined_types_used',['../structlisp.html#ac222191fb76b3964f4e78c1217b68333',1,'lisp']]],
+  ['userdef',['USERDEF',['../private_8h.html#a1ced6a1664758079d997f7d127ee1834a19f80321835bd625e84101dc8fe164c1',1,'private.h']]],
+  ['userdef_5ffuncs',['userdef_funcs',['../structuserdef__funcs.html',1,'']]],
+  ['util_2ec',['util.c',['../util_8c.html',1,'']]],
+  ['utostr',['utostr',['../liblisp_8h.html#ad4030879b53b731ddcc0cd226e455d0a',1,'utostr(uintptr_t u, unsigned base):&#160;util.c'],['../util_8c.html#aa6cd9ff9575f2ce96ca1f1e68ec6e992',1,'utostr(uintptr_t u, unsigned base):&#160;util.c']]]
+];

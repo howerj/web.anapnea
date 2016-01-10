@@ -1,0 +1,4 @@
+<map id="special_cell_list" name="special_cell_list">
+<area shape="rect" id="node2" href="$structcell.html" title="A tagged object representing all possible lisp data types. " alt="" coords="161,5,216,32"/>
+<area shape="rect" id="node3" href="$unioncell__data.html" title="cell_data" alt="" coords="200,95,295,121"/>
+</map>

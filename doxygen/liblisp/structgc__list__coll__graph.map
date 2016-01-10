@@ -1,0 +1,4 @@
+<map id="gc_list" name="gc_list">
+<area shape="rect" id="node2" href="$structcell.html" title="A tagged object representing all possible lisp data types. " alt="" coords="121,5,176,32"/>
+<area shape="rect" id="node3" href="$unioncell__data.html" title="cell_data" alt="" coords="173,95,268,121"/>
+</map>
