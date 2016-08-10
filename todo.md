@@ -29,5 +29,8 @@ TODO: Richard Howe, website
 * Projects section
 	- Add more detail to projects.
 	- Include tar.xz of projects.
+	- Subprojects: libforth and liblisp should be make into subprojects
+	so updating documentation is easier
+
 
 * Links section.
